@@ -3,7 +3,7 @@ En el presente taller se desarrolló un intérprete de comandos simple para sist
 
 # Proyecto: Intérprete de Comandos Simple en Linux (Shell)
 
-Descripción:
+# Descripción:
 Este proyecto corresponde al Taller 1 de la asignatura Sistemas Operativos.
 Consiste en el desarrollo de una shell simple en lenguaje C para sistemas Linux,
 capaz de ejecutar comandos del sistema utilizando las llamadas al sistema
