@@ -43,7 +43,4 @@ Repositorio:
 [Agregar aquí la URL del repositorio una vez creado]
 
 Autores:
-- [Nombre Integrante 1]
-- [Nombre Integrante 2]
-- [Nombre Integrante 3]
-- [Nombre Integrante 4]
+- Constanza Fuentealba Millán
